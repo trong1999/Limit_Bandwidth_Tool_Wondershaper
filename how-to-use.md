@@ -24,4 +24,4 @@ cần được limit.
   - USPEED="2024"
 
 - Sau khi configure xong thì cần restart lại wondershaper.
-## Qua blog này chúng ta có hiểu hơn về wondershaper và cách cài đặt cũng như cách sử dụng nó, chúc bạn đọc th
+## Qua blog này chúng ta có hiểu hơn về wondershaper và cách cài đặt cũng như cách sử dụng nó, chúc bạn đọc thành công
