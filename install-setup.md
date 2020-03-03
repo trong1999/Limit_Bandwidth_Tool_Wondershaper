@@ -9,4 +9,7 @@
 - Sau khi cài đặt xong, trước khi đến phần setup limit, cần phải xem client đang sử dụng interface card nào, bằng câu lệnh 
 + **$ ip a**
 ## 2.Setup
-- <img src="/home/trongnd/Pictures/Screenshot from 2020-03-03 09-13-26.png">
+- <img src="x-special/nautilus-clipboard
+copy
+file:///home/trongnd/Pictures/Screenshot%20from%202020-03-03%2009-13-26.png
+">
