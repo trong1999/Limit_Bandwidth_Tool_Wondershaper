@@ -14,13 +14,13 @@ cần được limit.
 ## Cách thứ 2 là set rate trong file configure của Wondershaper.
 - ** /etc/conf.d/wondershaper**
 '''[wondershaper]
-#### Adapter
+#/ Adapter
 IFACE="ens09"
 
-#### Download rate in Kbps
+#/ Download rate in Kbps
 DSPEED="4048"
 
-#### Upload rate in Kbps
+#/ Upload rate in Kbps
 USPEED="2024"
 '''
 - Sau khi configure xong thì cần restart lại wondershaper.
