@@ -13,15 +13,16 @@ cần được limit.
 + **$ wondershaper -ca ens09**
 ## Cách thứ 2 là set rate trong file configure của Wondershaper.
 - ** /etc/conf.d/wondershaper**
-'''[wondershaper]
-#/ Adapter
-IFACE="ens09"
+'''sh
+[wondershaper]
++ #/ Adapter
++ IFACE="ens09"
 
-#/ Download rate in Kbps
-DSPEED="4048"
++ #/ Download rate in Kbps
++ DSPEED="4048"
 
-#/ Upload rate in Kbps
-USPEED="2024"
++ #/ Upload rate in Kbps
++ USPEED="2024"
 '''
 - Sau khi configure xong thì cần restart lại wondershaper.
 ## Qua blog này chúng ta có hiểu hơn về wondershaper và cách cài đặt cũng như cách sử dụng nó, chúc bạn đọc th
